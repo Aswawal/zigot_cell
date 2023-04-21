@@ -83,9 +83,10 @@
   <section id="hero">
     <div class="hero-container">
       <h3>Welcome to <strong>Zigot Cell</strong></h3>
-      <h1>We're Creative Agency</h1>
-      <h2>We are team of talented designers making websites with Bootstrap</h2>
-      <a href="#about" class="btn-get-started scrollto">Get Started</a>
+      <h1>Services and Accessories Gadget</h1>
+      <h2>“Kualitas terbaik!”, “Paling aman!”, “Asli!”, “Dijamin!”
+        “Produk kualitas terbaik? <br> Di sini tempatnya”</h2>
+      <a href="#about" class="btn-get-started scrollto">Lihat Produk</a>
     </div>
   </section><!-- End Hero -->
 
@@ -97,7 +98,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <h3>Learn More <span>About Us</span></h3>
+          <h3>Lihat Lebih Lanjut <span>Tentang Kami</span></h3>
           <p>Ut possimus qui ut Zigot Cellribus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
         </div>
 
@@ -138,31 +139,37 @@
 
         <div class="section-title">
           <h2>Services</h2>
-          <h3>We do offer awesome <span>Services</span></h3>
-          <p>Ut possimus qui ut Zigot Cellribus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <h3>Kami menawarkan Layanan yang <span>LUAR BIASA</span></h3>
+          <p><b>Zigot Cell</b> memberikan pelayanan service profesional dengan menyediakan sparepart berkualitas Original dan Bergaransi.</p>
         </div>
 
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4 class="title"><a href="">Kualitas Layanan kami</a></h4>
+              <p class="description">
+                Membantu Pelanggan Mendapatkan Kebutuhan.
+                <br> Mampu Memberikan Solusi.
+                <br> Menyediakan Layanan Komplain.
+                <br> Menerima Kritik dan Saran.
+              </p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4 class="title"><a href="">Data privat</a></h4>
+              <p class="description">Kepercayaan anda tentang data pribadi saat gadget di service adalah tanggung jawab besar bagi kami. <br>
+                Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi (UU PDP)</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <h4 class="title"><a href="">Waktu Pengerjaan</a></h4>
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
