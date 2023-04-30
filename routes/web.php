@@ -14,5 +14,25 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('index', [
+        'title'=> "Zigot Cell"
+    ]);
+});
+
+Route::get('/blog', function () {
+    return view('blog', [
+        'title'=> "blog"
+    ]);
+});
+
+Route::get('/blog-single', function () {
+    return view('blog-single',[
+        'title'=> "blog-single"
+    ]);
+});
+
+Route::get('/portfolio-details', function () {
+    return view('portfolio-details',[
+        'title'=> "portfolio-details"
+    ]);
 });
