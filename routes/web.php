@@ -31,8 +31,16 @@ Route::get('/blog-single', function () {
     ]);
 });
 
-Route::get('/portfolio-details', function () {
-    return view('portfolio-details',[
-        'title'=> "portfolio-details"
+Route::get('/pruduct-details', function () {
+    return view('pruduct-details',[
+        'title'=> "pruduct-details"
     ]);
 });
+
+Route::get('/contact', function () {
+    return view('contact',[
+        'title'=> "contact"
+    ]);
+});
+
+

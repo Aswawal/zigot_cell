@@ -1,6 +1,10 @@
 @extends('layouts.main')
 @section('main')
-  <main id="main">
+   @include('partials.header')
+
+   <main id="main">
+
+
 
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs mt-0">

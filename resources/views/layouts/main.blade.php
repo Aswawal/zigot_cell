@@ -30,8 +30,6 @@
 </head>
 
 <body>
-
-  @include('partials.header')
     
   <main id="main">
     @yield('main')
