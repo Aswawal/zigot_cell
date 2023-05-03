@@ -19,21 +19,21 @@ Route::get('/', function () {
     ]);
 });
 
-Route::get('/blog', function () {
-    return view('blog', [
-        'title'=> "blog"
+Route::get('/posts', function () {
+    return view('posts', [
+        'title'=> "posts"
     ]);
 });
 
-Route::get('/blog-single', function () {
-    return view('blog-single',[
-        'title'=> "blog-single"
+Route::get('/about', function () {
+    return view('about',[
+        'title'=> "about"
     ]);
 });
 
-Route::get('/pruduct-details', function () {
-    return view('pruduct-details',[
-        'title'=> "pruduct-details"
+Route::get('/post-details', function () {
+    return view('post-details',[
+        'title'=> "post-details"
     ]);
 });
 
@@ -42,5 +42,12 @@ Route::get('/contact', function () {
         'title'=> "contact"
     ]);
 });
+
+Route::get('/categories', function () {
+    return view('categories',[
+        'title'=> "categories"
+    ]);
+});
+
 
 

@@ -9,29 +9,28 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto {{ ($title === 'Zigot Cell') ? 'active' : '' }}" href="/">Home</a></li>
-          <li><a class="nav-link scrollto {{ ($title === 'About') ? 'active' : '' }}" href="/blog-single">About</a></li>
-          <li><a class="nav-link scrollto {{ ($title === 'blog') ? 'active' : '' }}" href="/blog">Aksesoris</a></li>
-          <li><a class="nav-link scrollto {{ ($title === 'pruduct-details') ? 'active' : '' }}" href="/pruduct-details">Jasa Service</a></li>
-          <li class="dropdown"><a href="#"><span>Cari Cepat</span> <i class="bi bi-chevron-down"></i></a>
+          <li><a class="nav-link scrollto {{ ($title === 'About') ? 'active' : '' }}" href="/about">About</a></li>
+          <li><a class="nav-link scrollto {{ ($title === 'posts') ? 'active' : '' }}" href="/posts">Aksesoris</a></li>
+          <li class="dropdown"><a href="#"><span>Belanja & Jasa</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
 
               <li class="dropdown"><a href="#"><span>Handphone</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Aksesoris</a></li>
+                  <li><a href="#">Cari Aksesoris</a></li>
                   <li><a href="#">Jasa Service</a></li>
                 </ul>
               </li>
 
               <li class="dropdown"><a href="#"><span>Laptop</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Aksesoris</a></li>
+                  <li><a href="#">Cari Aksesoris</a></li>
                   <li><a href="#">Jasa Service</a></li>
                 </ul>
               </li>
 
               <li class="dropdown"><a href="#"><span>Komputer</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Aksesoris</a></li>
+                  <li><a href="#">Cari Aksesoris</a></li>
                   <li><a href="#">Jasa Service</a></li>
                 </ul>
               </li>
